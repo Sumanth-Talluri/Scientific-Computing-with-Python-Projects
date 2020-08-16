@@ -18,3 +18,16 @@ These are the projects I have submitted in the **Scientific Computing with Pytho
 
 :star: &nbsp; **View My Certificate [here](https://www.freecodecamp.org/certification/fcc88ecf761-c255-4af6-ae18-6eb9e6f8997e/scientific-computing-with-python-v7)** 
 
+&nbsp;
+
+### Contribute
+
+Contributions are always welcome! Please create a PR to contribute.
+
+### :pencil: &nbsp; License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+### :man_astronaut: &nbsp; Show your support
+
+Give a ⭐️ if this project helped you!
